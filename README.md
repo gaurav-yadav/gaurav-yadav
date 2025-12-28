@@ -4,8 +4,7 @@
 I build <b>backend/platform systems</b>, <b>developer tooling</b>, and <b>agentic workflows</b>.
 I like local-first, automation-friendly designs: tmux, CLIs, and reliability primitives.
 </p>
-
----
+<a href="https://medium.com/@gauravyadav2099">Medium</a>
 
 ### Featured
 
