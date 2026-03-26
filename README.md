@@ -1,56 +1,25 @@
-<h2>Hi, I’m Gaurav Yadav</h2>
+<h2>Hi, I'm Gaurav Yadav</h2>
 
-<p>
-I build <b>backend/platform systems</b>, <b>developer tooling</b>, and <b>agentic workflows</b>.
-I like local-first, automation-friendly designs: tmux, CLIs, and reliability primitives.
-</p>
+I build systems that think, track, and talk.
+
 <a href="https://gaurav-yadav.github.io">Blog & Podcast</a> · <a href="https://medium.com/@gauravyadav2099">Medium</a>
 
-### Featured
+### Currently
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🧠 Agent Conductor</h3>
-      <p>
-        <b>CLI orchestrator for multi-agent AI workflows in tmux</b> — supervisor/worker delegation,
-        inbox messaging, approval gates. Local-first with SQLite state.
-      </p>
-      <p>
-        <a href="https://github.com/gaurav-yadav/agent-conductor">Repo</a> ·
-        <a href="https://github.com/gaurav-yadav/agent-conductor/releases">Releases</a>
-      </p>
-    </td>
-    <td width="40%">
-      <b>30-second demo</b>
-      <pre>
-agent-conductor launch \
-  --provider claude_code \
-  --agent-profile conductor \
-  --with-worker developer \
-  --with-worker tester
-      </pre>
-    </td>
-  </tr>
-</table>
+Writing about AI, software, and culture. Check out the [blog](https://gaurav-yadav.github.io) →
 
----
+### Past Projects
 
-### What I’m focused on right now
-- Multi-agent orchestration primitives (local-first)
-- Postgres, reliability, and systems design for fintech-like workloads
-- Terminal UX: building tools that feel fast and composable
+**🧠 [Trinetra](https://github.com/gaurav-yadav/trinetra)** — Reactive reducer engine. Models any domain as a DAG of nodes with reducer functions accumulating state from signals. Built for causal graphs and what-if analysis.
 
----
+**🎛️ [Agent Conductor](https://github.com/gaurav-yadav/agent-conductor)** — CLI orchestrator for multi-agent AI workflows in tmux. Supervisor/worker delegation, inbox messaging, approval gates. Local-first with SQLite state.
 
 ### I can help with
-- Distributed systems design, data modeling, Postgres performance
-- Backend/platform architecture (TypeScript/Node, Python)
-- Developer tooling, automation, agentic workflows
+
+Distributed systems, data modeling, Postgres performance · Backend/platform architecture (TypeScript/Node, Python) · Developer tooling, automation, agentic workflows
 
 ---
 
-### Tech I use often
-**TypeScript/Node**, **Python**, **Postgres**, **Redis**, **AWS**, **Kubernetes**, **GraphQL**
+**TypeScript/Node** · **Python** · **Postgres** · **Redis** · **AWS** · **Kubernetes**
 
-📍 Bangalore · Backend / Platform · OSS-friendly
+📍 Bangalore
